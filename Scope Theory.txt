@@ -1,5 +1,4 @@
 Review: Scope
-In this lesson, you learned about scope and how it impacts the accessibility of different variables.
 
 Let’s review the following terms:
 
